@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:fontWeight="@integer/thin"
+        android:font="@font/inter_thin"/>
+    <font
+        android:fontWeight="@integer/extralight"
+        android:font="@font/inter_extralight"/>
+    <font
+        android:fontWeight="@integer/light"
+        android:font="@font/inter_light"/>
+    <font
+        android:fontWeight="@integer/regular"
+        android:font="@font/inter_regular"/>
+    <font
+        android:fontWeight="@integer/medium"
+        android:font="@font/inter_medium"/>
+    <font
+        android:fontWeight="@integer/semibold"
+        android:font="@font/inter_semibold"/>
+    <font
+        android:fontWeight="@integer/bold"
+        android:font="@font/inter_bold"/>
+    <font
+        android:fontWeight="@integer/black"
+        android:font="@font/inter_black"/>
+</font-family>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="app_version">V 1.0.0</string>
+
+    <string name="history_title">History</string>
+    <string name="no_history">No Previous Roll</string>
+    <string name="input_hint">Dice Sides (Default 6)</string>
+
+    <string name="roll_button">ROLL</string>
+    <string name="rolling_dice">ROLLING DICE</string>
+
+    <string name="roll_value">Rolled a </string>
+    <string name="roll_date">20 Mar 2022 19:23</string>
+</resources>

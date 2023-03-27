@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="thin">100</integer>
+    <integer name="extralight">200</integer>
+    <integer name="light">300</integer>
+    <integer name="regular">400</integer>
+    <integer name="medium">500</integer>
+    <integer name="semibold">600</integer>
+    <integer name="bold">700</integer>
+    <integer name="black">800</integer>
+</resources>
